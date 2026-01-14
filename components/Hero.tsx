@@ -52,6 +52,17 @@ const Hero: React.FC = () => {
             <span className="text-blue-400 font-bold italic"> "Right First Time"</span> approach.
           </p>
 
+             <h1 className="text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-black text-white leading-[1.05] mb-10 tracking-tighter">
+            ISO CERTIFIED  <br /><span className="text-blue-500">PAN INDIA & GLOBAL REACH</span>
+          </h1>
+
+            <p className="text-base sm:text-xl text-slate-300 mb-14 leading-relaxed max-w-2xl mx-auto lg:mx-0 font-medium">
+        Dry Cooling Solutions Specializing in ACHE,AFC,FFC,ACC and APH systems with high thermal performanc and energy efficiency. our Esteemed Clients Project exposure at IOCL,HPCL 
+        and RIL-KGD6 facilities,executed under OEM and TPI/PMC-governed contractual frameworks OEM/ PMC /LSTK Project Contract Exposure:BGR Energy | EHT | Air fins Ltd through AKS | 
+        Witzenmann job for DC and Turbodene |Simatek|EIL|TPL|TMPL|SLB
+           
+          </p>
+
           <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-center lg:justify-start gap-5 mb-20">
             <a
               href="#services"
